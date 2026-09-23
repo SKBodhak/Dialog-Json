@@ -7,7 +7,7 @@
   "BtnLater": "LATER",
   "BtnUpdate": "UPDATE",
   "Url": "https://rekonise.com/moviebox-pro-txis5",
-  "ForceUpdate": true,
-  "Reminder": "1h",      
+  "ForceUpdate": false,
+  "Reminder": "4h",      
   "BtnTimer": 5         
 }
