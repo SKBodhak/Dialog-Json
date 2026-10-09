@@ -7,7 +7,7 @@
   "BtnLater": "NOT NOW",
   "BtnUpdate": "UPDATE",
   "Url": "https://app.box.com/s/z1k9qudzou759pegbayiq95xfmjekzsf",
-  "ForceUpdate": true,
-  "Reminder": "6h",      
+  "ForceUpdate": false,
+  "Reminder": "4h",      
   "BtnTimer": 5         
 }
