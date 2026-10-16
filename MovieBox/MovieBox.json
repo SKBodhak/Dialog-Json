@@ -1,5 +1,5 @@
 {
-  "Version": "4.0.03.1973.03",
+  "Version": "4.0.03.1973.04",
   "Title": "🚀 UPDATE AVAILABLE",
   "Subtitle": "by @𝚂𝙺𝙱𝚘𝚍𝚑𝚊𝚔...",
   "Features": "✨ Improvements & Bug Fixes 🐞",
@@ -7,7 +7,7 @@
   "BtnLater": "SKIP",
   "BtnUpdate": "DOWNLOAD",
   "Url": "https://rekonise.com/moviebox-pro-txis5",
-  "ForceUpdate": true,
-  "Reminder": "1h",      
+  "ForceUpdate": false,
+  "Reminder": "3h",      
   "BtnTimer": 5         
 }
